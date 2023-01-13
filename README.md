@@ -1,10 +1,11 @@
 # Map-Reduce-Apache-Hadoop
-Using MapReduce in Hadoop for finding the count of crimes in each district of Chicago.(Data set link)[https://www.kaggle.com/currie32/crimes-in-chicago]
+Using MapReduce in Hadoop for finding the count of crimes in each district of Chicago.[Data set link](https://www.kaggle.com/currie32/crimes-in-chicago)
 
 ### Configurate Apache Hadoop on Local Machine
 - VM1: NameNode & Resource Manager
 - VM2: DataNode
 - VM3: NodeManager
+  
 |Screenshots|
 | :-------------: | 
 |![Screenshot from 2023-01-13 17-19-52](https://user-images.githubusercontent.com/44570354/212335253-47987cf0-8514-4e38-987e-d679fe62d8f4.png)|
